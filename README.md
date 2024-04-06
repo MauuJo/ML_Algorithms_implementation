@@ -5,9 +5,9 @@ Welcome to my machine learning algorithms repository! Here, I've implemented var
 ## 1. Gradient Descent (`GradientDescent.ipynb`)
 
 ### Description:
-- **Objective**: Implement gradient descent optimization.
-- **Keywords**: Gradient descent, optimization, cost function, convergence.
-- **Functions**: `compute_gradient`, `update_parameters`, `cost_function`.
+- **Objective**:  Implement gradient descent for predicting heart disease.
+- **Keywords**: Gradient descent, optimization, heart disease prediction, convergence.
+- **Functions**: `compute_gradient`, `update_parameters`, `loss_function`.
 
 ## 2. K-Nearest Neighbors with Iris Dataset (`KNN_irisdataset.ipynb`)
 
